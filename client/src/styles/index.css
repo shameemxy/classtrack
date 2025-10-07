@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-primary: #1E40AF;
+  --color-secondary: #FACC15;
+  --bg: #F9FAFB;
+}
+
+html, body, #root {
+  height: 100%;
+}
